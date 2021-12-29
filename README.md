@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahfuz Moyeen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="right" alt="GIF" src="https://github.com/mahfuzmoyeen10/mahfuzmoyeen10/blob/main/mygif.gif?raw=true" width="500" height="320" />
 <h2 align="left">I am a Web Developer, Creator, photographer
   <br>
   <hr>
@@ -8,8 +9,12 @@
 - 🔭 I’m currently working on **Web Devlopment**
 
 - 🌱 I’m currently learning **HTML ,css,js**
-
+  
+- 👯 I’m looking to collaborate on open source
+  
 - 📫 How to reach me **mahfuzzm10@gmail.com**
+
+- 💬 Ask me about ... Anything
 
 - ⚡ Fun fact **I am to much funny 😉😉😉🤣**
 
