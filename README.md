@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahfuz Moyeen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <h2 align="left">I am a Web Developer, Creator, photographer
-<img src="https://pin.it/5PrqwwS" alt="code photo">
+  <br>
+  <hr>
+  <br>
 - 🔭 I’m currently working on **Web Devlopment**
 
 - 🌱 I’m currently learning **HTML ,css,js**
