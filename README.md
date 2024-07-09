@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuz-moyeen&show_icons=true&locale=en" alt="mahfuz-moyeen" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-moyeen&" alt="mahfuz-moyeen" /></p>
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahfuz-moyeen&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahfuz-moyeen&theme=tokyonight&bg_color=fffff1a&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
